@@ -1,0 +1,29 @@
+2025-06-24 16:52:33 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-24 16:52:33 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-24 16:52:36 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-24 16:52:47 INFO  loginORsignupPage:118 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-06-24 16:52:51 INFO  loginORsignupPage:202 - Parsing DOB: 18/6/1992
+2025-06-24 16:52:51 INFO  loginORsignupPage:207 - Selecting DOB Day=18, Month=6, Year=1992
+2025-06-24 16:53:07 INFO  loginORsignupPage:250 - Attempting to delete account...
+2025-06-24 16:53:10 INFO  loginORsignupPage:253 - Delete account button clicked.
+2025-06-24 16:53:37 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-24 16:53:37 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-24 16:53:39 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-24 16:53:47 INFO  loginORsignupPage:118 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-06-24 16:53:52 INFO  loginORsignupPage:202 - Parsing DOB: 03/12/1996
+2025-06-24 16:53:52 INFO  loginORsignupPage:207 - Selecting DOB Day=03, Month=12, Year=1996
+2025-06-24 16:54:06 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-24 16:54:06 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-24 16:54:12 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-24 16:54:53 INFO  loginORsignupPage:250 - Attempting to delete account...
+2025-06-24 16:55:13 INFO  loginORsignupPage:253 - Delete account button clicked.
+2025-06-24 16:57:12 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-24 16:57:12 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-24 16:57:15 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-24 16:57:42 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-24 16:57:42 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-24 16:57:44 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-24 16:58:18 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-24 16:58:18 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-24 16:58:19 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-24 16:58:25 INFO  loginORsignupPage:118 - Filling signup fields: Name = yash4, Email = yash4@gmail.com

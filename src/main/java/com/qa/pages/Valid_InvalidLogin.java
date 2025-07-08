@@ -1,13 +1,13 @@
 package com.qa.pages;
 
 import com.qa.utilities.Elements;
-import com.qa.utilities.ReadConfig;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 import java.io.IOException;
-import java.util.Map;
 
 public class Valid_InvalidLogin {
 
@@ -24,43 +24,59 @@ public class Valid_InvalidLogin {
 	private By invalidCredsErrormsg = By.xpath("//form[@action=\"/login\"]/p");
 	private By existingMailErrormsg = By.xpath("//form[@action=\"/signup\"]/p");
 
-	private WebDriver driver;
 	private Elements ele;
-	private ReadConfig readconfig;
+	private static final Logger logger = LogManager.getLogger(Valid_InvalidLogin.class);
 
 	public Valid_InvalidLogin(WebDriver driver) {
-		this.driver = driver;
+		
 		this.ele = new Elements(driver);
-		this.readconfig = new ReadConfig();
+		
 	}
 
 	public String loginFormName() {
 		ele.dowaitForVisibility(loginformName);
+		
+		ele.waitForPageReady();
+		ele.retryUntilDisplayed(loginformName, 3);
 		return ele.dogetText(loginformName);
 	}
 
 	public void EnterLoginDetails(String LoginEmail, String Loginpassword) {
+		
+		ele.retryUntilDisplayed(loginemailfield, 3);
 		ele.dosendKeys(loginemailfield, LoginEmail);
+		
+		ele.retryUntilDisplayed(loginpasswordfield, 3);
 		ele.dosendKeys(loginpasswordfield, Loginpassword);
 	}
 
 	public void ClickLoginButton() {
 		ele.dowaitForVisibility(loginButton);
-		ele.doclick(loginButton);
+		ele.dowaitForClickable(loginButton);
+		
+		ele.retryUntilDisplayed(loginButton, 3);
+		ele.safeClick(loginButton,3);
 	}
 
 	public String LoggedInUserdisplay() {
 		ele.dowaitForVisibility(loginusername);
+		
+		ele.waitForPageReady();
 		return ele.dogetText(loginusername);
 	}
 
 	public void ClickDeleteAccount() {
 		ele.dowaitForVisibility(DeleteAccount);
-		ele.doclick(DeleteAccount);
+		ele.dowaitForClickable(DeleteAccount);
+		
+		ele.waitForPageReady();
+		ele.safeClick(DeleteAccount,3);
 	}
 
 	public String AccountDeletedMessage() {
 		ele.dowaitForVisibility(AccDeletedMessage);
+		
+		ele.waitForPageReady();
 		return ele.dogetText(AccDeletedMessage);
 	}
 
@@ -76,16 +92,22 @@ public class Valid_InvalidLogin {
 
 	public void clickContinueButton() {
 		ele.dowaitForVisibility(continueButtn);
-		ele.doclick(continueButtn);
+		ele.dowaitForClickable(continueButtn);
+		ele.safeClick(continueButtn,3);
 	}
 
 	public void clickLogout() {
 		ele.dowaitForVisibility(LogoutTab);
-		ele.doclick(LogoutTab);
+		ele.dowaitForClickable(LogoutTab);
+		logger.info("..............clicking logout tab.................");
+		
+		ele.waitForPageReady();
+		ele.safeClick(LogoutTab,3);
 	}
 	
 	public boolean ExistingMailidErrdisplayed() {
 		ele.dowaitForVisibility(existingMailErrormsg);
+		logger.info("..............existing mail id error message for signup.................");
 		return ele.doisDisplayed(existingMailErrormsg);
 		
 	}
@@ -96,6 +118,7 @@ public class Valid_InvalidLogin {
 	}
 
 	public void ScreenShot(String filename) throws IOException {
+		logger.info("..............taking screenshot.................");
 		ele.docaptureScreenshot(filename);
 	}
 	

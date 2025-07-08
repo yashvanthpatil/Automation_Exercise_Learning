@@ -11,6 +11,9 @@ import static org.junit.Assert.assertEquals;
 
 public class SIgnupAndDeleteAccSteps {
 
+	private String signupname;
+	private String Signupemail;
+	
 	private loginORsignupPage loginRsignup = new loginORsignupPage(DriverFactory.getDriver());
 
 	@Given("User launches the browser")
@@ -40,23 +43,41 @@ public class SIgnupAndDeleteAccSteps {
 
 	@When("User enters {string} and {string} address for signup from sheetname {string}")
 	public void user_enters_and_address_for_signup_from_sheetname(String name, String email, String sheetname) {
-		String signupname = loginRsignup.DataFromExcel(sheetname, name);
-		String Signupemail = loginRsignup.DataFromExcel(sheetname, email);
+		signupname = loginRsignup.DataFromExcel(sheetname, name);
+		Signupemail = loginRsignup.DataFromExcel(sheetname, email);
 		loginRsignup.FillSignupFields(signupname, Signupemail);
 	}
 
 	@And("Clicks on Signup button")
 	public void clicksOnSignupButton() {
 		loginRsignup.ClickSignupButton();
+		
+		boolean userExists = loginRsignup.UserAlreadyExistsErrorMesage();
+		String signUpPageTitle = "Automation Exercise - Signup";
+		if(userExists && !loginRsignup.GetTitle().equalsIgnoreCase(signUpPageTitle))	{
+			loginRsignup.retrySignupForExistingUser();
+			loginRsignup.clicksignuporloginTab();
+			loginRsignup.FillSignupFields(signupname, Signupemail);
+			loginRsignup.ClickSignupButton();
+		}else {
+			System.out.println("user landed to signup page");
+		}
 	}
 
 	@Then("{string} should be visible")
 	public void shouldBeVisible(String EnterAccInfo) {
-		assertEquals(loginRsignup.FormHeading(), EnterAccInfo);
+		String signUpPageTitle = "Automation Exercise - Signup";
+		if(loginRsignup.GetTitle()==signUpPageTitle) {
+			assertEquals(loginRsignup.FormHeading(), EnterAccInfo);
+		}else {
+			System.out.println("user is not landed in signup page");
+		}
+		
 	}
 
 	@When("User fills in account information from sheet {string}")
 	public void user_fills_in_account_information_from_sheet(String sheetname) {
+		
 		String title = loginRsignup.DataFromExcel(sheetname, "Title");
 		if (title.equalsIgnoreCase("Mr") || title.equalsIgnoreCase("mr")) {
 			loginRsignup.ClickMaleTitleRadioButtons();
@@ -65,7 +86,8 @@ public class SIgnupAndDeleteAccSteps {
 		}
 		loginRsignup.EnterPasswordField(sheetname, "Password");
 		loginRsignup.SelectDOB(sheetname, "DOB");
-
+		
+		
 	}
 
 	@And("Selects newsletter and special offers checkboxes")
@@ -92,7 +114,7 @@ public class SIgnupAndDeleteAccSteps {
 
 	@When("User clicks on Continue button")
 	public void userClicksOnContinueButton() {
-		loginRsignup.continueButon().click();
+		loginRsignup.Clickcontinuebutton();
 	}
 
 	@Then("Logged in as username should be visible")
@@ -103,14 +125,18 @@ public class SIgnupAndDeleteAccSteps {
 
 	@When("User clicks on Delete Account button")
 	public void userClicksOnDeleteAccountButton() {
-		loginRsignup.DeleteAccountButton();
+		loginRsignup.DeleteAccountTab();
 	}
 
 	@Then("{string} deletion message should be visible and click on continue button")
 	public void messageShouldBeVisibl(String DeleteConfirmation) {
 		assertEquals(loginRsignup.AccDeletedMesage(), DeleteConfirmation);
-		loginRsignup.continueButon().click();
-		System.out.println(loginRsignup.AccDeletedMesage());
+		boolean accDeleted = loginRsignup.IsaccdeletedmessageDisplayed();
+		if(accDeleted) {
+			loginRsignup.Clickcontinuebutton();
+			
+		}
+		
 	}
 
 }

@@ -35,9 +35,24 @@ public class Elements {
     }
 
     // =================== Basic Actions ===================
-    public void doclick(Object locator) {
-        resolve(locator).click();
+    public void safeClick(Object locator, int maxAttempts) {
+        int attempts = 0;
+        while (attempts < maxAttempts) {
+            try {
+                dowaitForVisibility(locator);
+                dowaitForClickable(locator);
+                resolve(locator).click();
+                return;
+            } catch (Exception e) {
+                System.out.println("Click retry " + (attempts + 1) + ": " + e.getMessage());
+                attempts++;
+                try { Thread.sleep(1000); } catch (InterruptedException ignored) {}
+            }
+        }
+        System.out.println("Falling back to JS click...");
+        doclickByJS(locator);
     }
+
     public WebElement getElement(Object locator) {
     	return resolve(locator);
     }
@@ -107,6 +122,26 @@ public class Elements {
 
         throw new RuntimeException("Page did not load after " + maxRetries + " retries, including refresh attempts.");
     }
+    
+    public void waitForPageReady() {
+        new WebDriverWait(driver, Duration.ofSeconds(20)).until(
+            webDriver -> ((JavascriptExecutor) webDriver)
+                .executeScript("return document.readyState").equals("complete"));
+    }
+
+    
+    public boolean retryUntilDisplayed(By locator, int retries) {
+        int count = 0;
+        while (count < retries) {
+            try {
+                if (driver.findElement(locator).isDisplayed()) return true;
+            } catch (Exception ignored) {}
+            count++;
+            try { Thread.sleep(1000); } catch (InterruptedException ignored) {}
+        }
+        return false;
+    }
+
 
 
     // =================== Dropdown ===================
@@ -118,6 +153,11 @@ public class Elements {
     public void doselectByValue(Object locator, String value) {
         Select dropdown = new Select(resolve(locator));
         dropdown.selectByValue(value);
+    }
+    
+    public void doselectByIndex(String locator,int index) {
+    	 Select dropdown = new Select(resolve(locator));
+    	 dropdown.selectByIndex(index);
     }
 
     // =================== Actions ===================

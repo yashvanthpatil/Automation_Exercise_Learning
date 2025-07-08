@@ -21,6 +21,7 @@ public class LoginAndDeleteAccSteps {
        String Email = signup.DataFromExcel("SignupAccountInformation", "Email");
         signup.FillSignupFields(Name, Email);
         signup.ClickSignupButton();
+        
 
     	String usertitle = signup.DataFromExcel("SignupAccountInformation", "Title");
 		if (usertitle.equalsIgnoreCase("Mr") || usertitle.equalsIgnoreCase("mr")) {
@@ -35,7 +36,7 @@ public class LoginAndDeleteAccSteps {
     		// Add adress info sheet name
        signup.EnterAdressInformation("SignupAddressInformation");
         signup.ClickCreateAccButton();
-        signup.continueButon().click();
+        signup.Clickcontinuebutton();
         System.out.println("Signup completed");
     }
 
@@ -64,7 +65,7 @@ public class LoginAndDeleteAccSteps {
 
     @And("Click Delete Account button")
     public void click_delete_account_button() {
-        signup.DeleteAccountButton();
+        signup.DeleteAccountTab();
     }
 
     @Then("Verify that {string} message is visible")

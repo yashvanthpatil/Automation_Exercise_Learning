@@ -27,3 +27,1824 @@
 2025-06-24 16:58:18 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
 2025-06-24 16:58:19 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
 2025-06-24 16:58:25 INFO  loginORsignupPage:118 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-06-28 17:17:27 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 17:17:27 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 17:17:30 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 17:18:07 INFO  loginORsignupPage:118 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-06-28 17:18:11 INFO  loginORsignupPage:202 - Parsing DOB: 18/6/1992
+2025-06-28 17:18:11 INFO  loginORsignupPage:207 - Selecting DOB Day=18, Month=6, Year=1992
+2025-06-28 17:18:52 INFO  loginORsignupPage:250 - Attempting to delete account...
+2025-06-28 17:18:55 INFO  loginORsignupPage:253 - Delete account button clicked.
+2025-06-28 17:20:24 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 17:20:24 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 17:20:26 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 17:20:38 INFO  loginORsignupPage:118 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-06-28 17:20:42 INFO  loginORsignupPage:202 - Parsing DOB: 03/12/1996
+2025-06-28 17:20:42 INFO  loginORsignupPage:207 - Selecting DOB Day=03, Month=12, Year=1996
+2025-06-28 17:21:10 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 17:21:10 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 17:21:11 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 17:26:29 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 17:26:29 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 17:26:31 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 17:26:40 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 17:26:40 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 17:26:42 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 17:26:57 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 17:26:57 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 17:26:59 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 17:27:05 INFO  loginORsignupPage:118 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-06-28 22:36:11 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 22:36:11 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 22:36:13 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 22:37:53 INFO  loginORsignupPage:120 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-06-28 22:37:58 INFO  loginORsignupPage:211 - Parsing DOB: 18/6/1992
+2025-06-28 22:37:58 INFO  loginORsignupPage:216 - Selecting DOB Day=18, Month=6, Year=1992
+2025-06-28 22:39:54 INFO  loginORsignupPage:264 - Attempting to delete account...
+2025-06-28 22:39:56 INFO  loginORsignupPage:267 - Delete account button clicked.
+2025-06-28 22:41:43 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 22:41:43 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 22:41:45 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 22:41:59 INFO  loginORsignupPage:120 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-06-28 22:42:22 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 22:42:22 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 22:42:24 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 22:42:36 INFO  loginORsignupPage:264 - Attempting to delete account...
+2025-06-28 22:42:38 INFO  loginORsignupPage:267 - Delete account button clicked.
+2025-06-28 22:42:43 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 22:42:43 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 22:42:45 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 22:43:09 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 22:43:09 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 22:43:10 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 22:48:26 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-06-28 22:48:26 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-06-28 22:48:28 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-06-28 22:48:43 INFO  loginORsignupPage:120 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-03 22:00:25 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:00:25 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:00:29 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:01:00 INFO  loginORsignupPage:120 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-03 22:01:11 INFO  loginORsignupPage:211 - Parsing DOB: 18/6/1992
+2025-07-03 22:01:11 INFO  loginORsignupPage:216 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-03 22:06:29 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:06:29 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:06:31 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:08:23 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:08:23 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:08:25 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:08:38 INFO  loginORsignupPage:120 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-03 22:09:05 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:09:05 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:09:07 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:09:16 INFO  loginORsignupPage:120 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-03 22:09:20 INFO  loginORsignupPage:211 - Parsing DOB: 03/12/1996
+2025-07-03 22:09:20 INFO  loginORsignupPage:216 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-03 22:09:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:09:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:09:35 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:09:53 INFO  loginORsignupPage:264 - Attempting to delete account...
+2025-07-03 22:09:54 INFO  loginORsignupPage:267 - Delete account button clicked.
+2025-07-03 22:09:59 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:09:59 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:10:01 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:10:13 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:10:13 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:10:15 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:10:30 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:10:30 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:10:31 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:10:41 INFO  loginORsignupPage:120 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-03 22:22:06 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:22:06 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:22:08 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:22:19 INFO  loginORsignupPage:120 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-03 22:22:45 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:22:45 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:22:47 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:22:56 INFO  loginORsignupPage:120 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-03 22:23:00 INFO  loginORsignupPage:211 - Parsing DOB: 03/12/1996
+2025-07-03 22:23:00 INFO  loginORsignupPage:216 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-03 22:23:13 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:23:13 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:23:14 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:23:28 INFO  loginORsignupPage:264 - Attempting to delete account...
+2025-07-03 22:23:30 INFO  loginORsignupPage:267 - Delete account button clicked.
+2025-07-03 22:23:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:23:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:23:36 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:23:49 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:23:49 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:23:52 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 22:23:52 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 22:23:55 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 22:24:04 INFO  loginORsignupPage:120 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-03 23:51:15 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:51:15 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:51:17 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:51:24 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:51:29 INFO  loginORsignupPage:120 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-03 23:51:30 INFO  loginORsignupPage:162 - ...........clicking signup button.......
+2025-07-03 23:51:54 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:51:54 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:51:55 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:52:00 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:52:02 INFO  loginORsignupPage:120 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-03 23:52:03 INFO  loginORsignupPage:162 - ...........clicking signup button.......
+2025-07-03 23:52:06 INFO  loginORsignupPage:219 - ..............select male title radio button.................
+2025-07-03 23:52:06 INFO  loginORsignupPage:231 - ..............entering password.................
+2025-07-03 23:52:08 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:52:08 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:52:10 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:52:14 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:52:41 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:52:41 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:52:42 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:52:46 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:52:51 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:52:51 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:52:52 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:52:56 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:53:02 INFO  loginORsignupPage:190 - ..............getting loggedin user name.................
+2025-07-03 23:53:02 INFO  Valid_InvalidLogin:87 - ..............clicking logout tab.................
+2025-07-03 23:53:04 INFO  loginORsignupPage:173 - ..............getting current url.................
+2025-07-03 23:53:04 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:53:04 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:53:06 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:53:11 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:53:13 INFO  loginORsignupPage:120 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-03 23:53:13 INFO  loginORsignupPage:162 - ...........clicking signup button.......
+2025-07-03 23:53:15 INFO  Valid_InvalidLogin:93 - ..............existing mail id error message for signup.................
+2025-07-03 23:55:49 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-03 23:55:50 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-03 23:55:52 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-03 23:56:05 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-03 23:56:09 INFO  loginORsignupPage:120 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-03 23:56:10 INFO  loginORsignupPage:162 - ...........clicking signup button.......
+2025-07-03 23:56:12 INFO  loginORsignupPage:313 - .............user already exists.................
+2025-07-03 23:56:12 INFO  loginORsignupPage:130 - user already exists deleting by logging in with
+2025-07-03 23:56:13 INFO  loginORsignupPage:155 - ..................clicking login button................
+2025-07-04 00:01:16 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:01:16 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:01:18 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:01:22 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-04 00:01:26 INFO  loginORsignupPage:120 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-04 00:01:27 INFO  loginORsignupPage:162 - ...........clicking signup button.......
+2025-07-04 00:01:30 INFO  loginORsignupPage:219 - ..............select male title radio button.................
+2025-07-04 00:01:31 INFO  loginORsignupPage:231 - ..............entering password.................
+2025-07-04 00:01:31 INFO  loginORsignupPage:237 - Parsing DOB: 03/12/1996
+2025-07-04 00:01:31 INFO  loginORsignupPage:242 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-04 00:01:33 INFO  loginORsignupPage:262 - ..............check newsletters check box.................
+2025-07-04 00:01:33 INFO  loginORsignupPage:267 - ..............recove offers check box.................
+2025-07-04 00:01:39 INFO  loginORsignupPage:307 - ..............clicking createAccount button.................
+2025-07-04 00:01:47 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:01:47 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:01:49 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:01:53 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-04 00:01:59 INFO  loginORsignupPage:190 - ..............getting loggedin user name.................
+2025-07-04 00:01:59 INFO  loginORsignupPage:293 - Attempting to delete account...
+2025-07-04 00:02:01 INFO  loginORsignupPage:296 - Delete account button clicked.
+2025-07-04 00:02:09 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:02:09 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:02:10 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:02:15 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-04 00:02:21 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:02:21 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:02:22 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:02:27 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-04 00:02:33 INFO  loginORsignupPage:190 - ..............getting loggedin user name.................
+2025-07-04 00:02:33 INFO  Valid_InvalidLogin:87 - ..............clicking logout tab.................
+2025-07-04 00:02:35 INFO  loginORsignupPage:173 - ..............getting current url.................
+2025-07-04 00:02:36 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:02:36 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:02:38 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:02:41 INFO  loginORsignupPage:168 - ***** getting title of the page********
+2025-07-04 00:02:44 INFO  loginORsignupPage:120 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-04 00:02:44 INFO  loginORsignupPage:162 - ...........clicking signup button.......
+2025-07-04 00:02:46 INFO  Valid_InvalidLogin:93 - ..............existing mail id error message for signup.................
+2025-07-04 00:06:50 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:06:50 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:06:53 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:06:58 INFO  loginORsignupPage:169 - ***** getting title of the page********
+2025-07-04 00:07:03 INFO  loginORsignupPage:121 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-04 00:07:04 INFO  loginORsignupPage:163 - ...........clicking signup button.......
+2025-07-04 00:07:05 INFO  loginORsignupPage:316 - .............user already exists.................
+2025-07-04 00:07:06 INFO  loginORsignupPage:131 - user already exists deleting by logging in with
+2025-07-04 00:07:07 INFO  loginORsignupPage:156 - ..................clicking login button................
+2025-07-04 00:07:18 INFO  loginORsignupPage:295 - Attempting to delete account...
+2025-07-04 00:07:20 INFO  loginORsignupPage:299 - Delete account button clicked.
+2025-07-04 00:07:20 INFO  loginORsignupPage:96 - ****found continue button locator*****
+2025-07-04 00:07:44 INFO  loginORsignupPage:121 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-04 00:08:07 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:08:07 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:08:09 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:08:13 INFO  loginORsignupPage:169 - ***** getting title of the page********
+2025-07-04 00:08:17 INFO  loginORsignupPage:121 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-04 00:08:18 INFO  loginORsignupPage:163 - ...........clicking signup button.......
+2025-07-04 00:08:20 INFO  loginORsignupPage:221 - ..............select male title radio button.................
+2025-07-04 00:08:20 INFO  loginORsignupPage:233 - ..............entering password.................
+2025-07-04 00:08:21 INFO  loginORsignupPage:239 - Parsing DOB: 03/12/1996
+2025-07-04 00:08:21 INFO  loginORsignupPage:244 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-04 00:08:22 INFO  loginORsignupPage:264 - ..............check newsletters check box.................
+2025-07-04 00:08:22 INFO  loginORsignupPage:269 - ..............recove offers check box.................
+2025-07-04 00:08:25 INFO  loginORsignupPage:310 - ..............clicking createAccount button.................
+2025-07-04 00:08:29 INFO  loginORsignupPage:96 - ****found continue button locator*****
+2025-07-04 00:10:58 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:10:58 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:11:01 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:11:40 INFO  loginORsignupPage:170 - ***** getting title of the page********
+2025-07-04 00:11:40 INFO  loginORsignupPage:88 - *****clicking signup/login Tab*********
+2025-07-04 00:14:23 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:14:23 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:14:26 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:14:29 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:14:30 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:14:35 INFO  loginORsignupPage:123 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-04 00:14:35 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-04 00:14:37 INFO  loginORsignupPage:318 - .............user already exists.................
+2025-07-04 00:14:38 INFO  loginORsignupPage:133 - user already exists deleting by logging in with
+2025-07-04 00:14:59 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:14:59 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:15:01 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:15:06 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:15:06 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:15:08 INFO  loginORsignupPage:123 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-04 00:15:09 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-04 00:15:31 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:15:31 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:15:33 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:15:38 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:15:38 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:15:45 INFO  loginORsignupPage:193 - ..............getting loggedin user name.................
+2025-07-04 00:15:45 INFO  loginORsignupPage:297 - Attempting to delete account...
+2025-07-04 00:15:47 INFO  loginORsignupPage:301 - Delete account button clicked.
+2025-07-04 00:15:47 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 00:15:50 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:15:50 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:15:51 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:15:55 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:15:56 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:16:01 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:16:01 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:16:02 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:16:06 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:16:06 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:16:13 INFO  loginORsignupPage:193 - ..............getting loggedin user name.................
+2025-07-04 00:16:13 INFO  Valid_InvalidLogin:87 - ..............clicking logout tab.................
+2025-07-04 00:16:16 INFO  loginORsignupPage:176 - ..............getting current url.................
+2025-07-04 00:16:16 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:16:16 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:16:17 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:16:22 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:16:22 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:16:24 INFO  loginORsignupPage:123 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-04 00:16:25 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-04 00:16:27 INFO  Valid_InvalidLogin:93 - ..............existing mail id error message for signup.................
+2025-07-04 00:19:39 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:19:39 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:19:42 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:19:49 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:19:49 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:19:53 INFO  loginORsignupPage:123 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-04 00:19:54 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-04 00:19:55 INFO  loginORsignupPage:320 - .............user already exists.................
+2025-07-04 00:19:56 INFO  loginORsignupPage:133 - user already exists deleting by logging in with
+2025-07-04 00:20:17 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:20:17 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:20:19 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:20:26 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:20:26 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:20:28 INFO  loginORsignupPage:123 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-04 00:20:29 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-04 00:20:31 INFO  loginORsignupPage:224 - ..............select male title radio button.................
+2025-07-04 00:20:31 INFO  loginORsignupPage:237 - ..............entering password.................
+2025-07-04 00:20:31 INFO  loginORsignupPage:243 - Parsing DOB: 03/12/1996
+2025-07-04 00:20:31 INFO  loginORsignupPage:248 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-04 00:20:32 INFO  loginORsignupPage:268 - ..............check newsletters check box.................
+2025-07-04 00:20:32 INFO  loginORsignupPage:273 - ..............recove offers check box.................
+2025-07-04 00:20:35 INFO  loginORsignupPage:314 - ..............clicking createAccount button.................
+2025-07-04 00:20:37 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 00:20:40 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:20:40 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:20:41 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:20:48 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:20:48 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:20:54 INFO  loginORsignupPage:193 - ..............getting loggedin user name.................
+2025-07-04 00:20:54 INFO  loginORsignupPage:299 - Attempting to delete account...
+2025-07-04 00:20:56 INFO  loginORsignupPage:303 - Delete account button clicked.
+2025-07-04 00:20:56 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 00:20:58 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:20:58 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:20:59 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:21:03 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:21:03 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:21:07 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:21:07 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:21:09 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:21:13 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:21:13 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:21:18 INFO  loginORsignupPage:193 - ..............getting loggedin user name.................
+2025-07-04 00:21:18 INFO  Valid_InvalidLogin:87 - ..............clicking logout tab.................
+2025-07-04 00:21:20 INFO  loginORsignupPage:176 - ..............getting current url.................
+2025-07-04 00:21:21 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:21:21 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:21:22 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:21:26 INFO  loginORsignupPage:171 - ***** getting title of the page********
+2025-07-04 00:21:26 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:21:28 INFO  loginORsignupPage:123 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-04 00:21:29 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-04 00:21:30 INFO  Valid_InvalidLogin:93 - ..............existing mail id error message for signup.................
+2025-07-04 00:26:22 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:26:22 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:26:25 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:26:29 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 00:26:29 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:26:33 INFO  loginORsignupPage:123 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-04 00:26:34 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-04 00:26:35 INFO  loginORsignupPage:321 - .............user already exists.................
+2025-07-04 00:26:36 INFO  loginORsignupPage:133 - user already exists deleting by logging in with
+2025-07-04 00:26:58 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:26:58 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:26:59 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:27:07 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 00:27:07 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:27:12 INFO  loginORsignupPage:123 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-04 00:27:13 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-04 00:27:16 INFO  loginORsignupPage:225 - ..............select male title radio button.................
+2025-07-04 00:27:17 INFO  loginORsignupPage:238 - ..............entering password.................
+2025-07-04 00:27:17 INFO  loginORsignupPage:244 - Parsing DOB: 03/12/1996
+2025-07-04 00:27:17 INFO  loginORsignupPage:249 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-04 00:27:18 INFO  loginORsignupPage:269 - ..............check newsletters check box.................
+2025-07-04 00:27:18 INFO  loginORsignupPage:274 - ..............recove offers check box.................
+2025-07-04 00:27:20 INFO  loginORsignupPage:315 - ..............clicking createAccount button.................
+2025-07-04 00:27:32 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 00:32:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:32:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:32:35 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:32:43 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 00:32:43 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:32:54 INFO  loginORsignupPage:194 - ..............getting loggedin user name.................
+2025-07-04 00:32:54 INFO  loginORsignupPage:300 - Attempting to delete account...
+2025-07-04 00:32:55 INFO  loginORsignupPage:304 - Delete account button clicked.
+2025-07-04 00:32:56 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 00:33:02 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:33:02 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:33:04 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:37:25 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:37:25 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 00:37:28 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 00:38:20 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 00:38:20 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 00:39:03 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 00:39:03 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:37:23 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 12:37:24 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:37:26 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 12:37:33 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 12:37:33 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 12:37:38 INFO  loginORsignupPage:123 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-04 12:37:39 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-04 12:37:42 INFO  loginORsignupPage:321 - .............user already exists.................
+2025-07-04 12:37:43 INFO  loginORsignupPage:133 - user already exists deleting by logging in with
+2025-07-04 12:38:05 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 12:38:05 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:38:12 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 12:38:48 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 12:38:48 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 12:38:51 INFO  loginORsignupPage:123 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-04 12:38:52 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-04 12:38:54 INFO  loginORsignupPage:225 - ..............select male title radio button.................
+2025-07-04 12:38:54 INFO  loginORsignupPage:238 - ..............entering password.................
+2025-07-04 12:38:55 INFO  loginORsignupPage:244 - Parsing DOB: 03/12/1996
+2025-07-04 12:38:55 INFO  loginORsignupPage:249 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-04 12:38:56 INFO  loginORsignupPage:269 - ..............check newsletters check box.................
+2025-07-04 12:38:56 INFO  loginORsignupPage:274 - ..............recove offers check box.................
+2025-07-04 12:39:00 INFO  loginORsignupPage:315 - ..............clicking createAccount button.................
+2025-07-04 12:39:03 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 12:39:07 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 12:39:07 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:39:08 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 12:39:13 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 12:39:13 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 12:39:19 INFO  loginORsignupPage:194 - ..............getting loggedin user name.................
+2025-07-04 12:39:19 INFO  loginORsignupPage:300 - Attempting to delete account...
+2025-07-04 12:39:21 INFO  loginORsignupPage:304 - Delete account button clicked.
+2025-07-04 12:39:21 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-04 12:39:23 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 12:39:23 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:39:25 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 12:39:29 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 12:39:29 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 12:39:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 12:39:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:39:35 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 12:39:55 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 12:39:55 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 12:40:29 INFO  loginORsignupPage:194 - ..............getting loggedin user name.................
+2025-07-04 12:40:29 INFO  Valid_InvalidLogin:87 - ..............clicking logout tab.................
+2025-07-04 12:40:32 INFO  loginORsignupPage:177 - ..............getting current url.................
+2025-07-04 12:40:32 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-04 12:40:32 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-04 12:40:34 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-04 12:40:38 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-04 12:40:38 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-04 12:40:39 INFO  loginORsignupPage:123 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-04 12:40:40 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-04 12:40:42 INFO  Valid_InvalidLogin:93 - ..............existing mail id error message for signup.................
+2025-07-06 15:10:38 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:10:38 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:10:41 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:10:45 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-06 15:10:45 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-06 15:10:50 INFO  loginORsignupPage:123 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 15:10:51 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-06 15:10:53 INFO  loginORsignupPage:321 - .............user already exists.................
+2025-07-06 15:10:53 INFO  loginORsignupPage:133 - user already exists deleting by logging in with
+2025-07-06 15:11:16 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:11:16 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:11:18 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:11:26 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-06 15:11:26 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-06 15:11:29 INFO  loginORsignupPage:123 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 15:11:30 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-06 15:11:32 INFO  loginORsignupPage:225 - ..............select male title radio button.................
+2025-07-06 15:11:33 INFO  loginORsignupPage:238 - ..............entering password.................
+2025-07-06 15:11:33 INFO  loginORsignupPage:244 - Parsing DOB: 03/12/1996
+2025-07-06 15:11:33 INFO  loginORsignupPage:249 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-06 15:11:34 INFO  loginORsignupPage:269 - ..............check newsletters check box.................
+2025-07-06 15:11:35 INFO  loginORsignupPage:274 - ..............recove offers check box.................
+2025-07-06 15:11:39 INFO  loginORsignupPage:315 - ..............clicking createAccount button.................
+2025-07-06 15:11:41 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-06 15:11:48 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:11:48 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:11:50 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:11:55 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-06 15:11:55 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-06 15:12:01 INFO  loginORsignupPage:194 - ..............getting loggedin user name.................
+2025-07-06 15:12:02 INFO  loginORsignupPage:300 - Attempting to delete account...
+2025-07-06 15:12:03 INFO  loginORsignupPage:304 - Delete account button clicked.
+2025-07-06 15:12:03 INFO  loginORsignupPage:98 - ****found continue button locator*****
+2025-07-06 15:12:08 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:12:08 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:12:10 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:12:14 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-06 15:12:14 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-06 15:12:19 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:12:19 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:12:21 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:12:25 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-06 15:12:25 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-06 15:12:31 INFO  loginORsignupPage:194 - ..............getting loggedin user name.................
+2025-07-06 15:12:32 INFO  Valid_InvalidLogin:87 - ..............clicking logout tab.................
+2025-07-06 15:12:33 INFO  loginORsignupPage:177 - ..............getting current url.................
+2025-07-06 15:12:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:12:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:12:36 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:12:42 INFO  loginORsignupPage:172 - ***** getting title of the page********
+2025-07-06 15:12:42 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-06 15:12:44 INFO  loginORsignupPage:123 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 15:12:45 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-06 15:12:46 INFO  Valid_InvalidLogin:93 - ..............existing mail id error message for signup.................
+2025-07-06 15:51:50 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:51:50 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:51:53 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:52:00 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-06 15:52:00 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 15:52:06 INFO  loginORsignupPage:126 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 15:52:07 INFO  loginORsignupPage:180 - ...........clicking signup button.......
+2025-07-06 15:52:09 INFO  loginORsignupPage:349 - .............user already exists.................
+2025-07-06 15:52:10 INFO  loginORsignupPage:140 - user already exists deleting by logging in with
+2025-07-06 15:52:32 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:52:32 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:52:34 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:53:03 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-06 15:53:04 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 15:53:08 INFO  loginORsignupPage:126 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 15:53:09 INFO  loginORsignupPage:180 - ...........clicking signup button.......
+2025-07-06 15:53:14 INFO  loginORsignupPage:244 - ..............select male title radio button.................
+2025-07-06 15:53:14 INFO  loginORsignupPage:260 - ..............entering password.................
+2025-07-06 15:53:15 INFO  loginORsignupPage:266 - Parsing DOB: 03/12/1996
+2025-07-06 15:53:15 INFO  loginORsignupPage:271 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-06 15:53:15 INFO  loginORsignupPage:291 - ..............check newsletters check box.................
+2025-07-06 15:53:16 INFO  loginORsignupPage:296 - ..............recove offers check box.................
+2025-07-06 15:53:19 INFO  loginORsignupPage:342 - ..............clicking createAccount button.................
+2025-07-06 15:53:33 INFO  loginORsignupPage:101 - ****found continue button locator*****
+2025-07-06 15:54:05 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:54:05 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:54:07 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:54:14 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-06 15:54:14 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 15:54:19 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:54:19 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:54:20 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:54:30 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-06 15:54:30 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 15:54:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:54:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:54:35 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:54:41 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-06 15:54:41 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 15:54:45 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 15:54:45 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 15:54:47 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 15:54:56 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-06 15:54:56 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 15:54:58 INFO  loginORsignupPage:126 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 15:54:59 INFO  loginORsignupPage:180 - ...........clicking signup button.......
+2025-07-06 15:55:02 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-06 16:07:36 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:07:36 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:07:39 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:07:47 INFO  loginORsignupPage:189 - ***** getting title of the page********
+2025-07-06 16:07:47 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:07:51 INFO  loginORsignupPage:126 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 16:07:52 INFO  loginORsignupPage:182 - ...........clicking signup button.......
+2025-07-06 16:07:54 INFO  loginORsignupPage:351 - .............user already exists.................
+2025-07-06 16:07:54 INFO  loginORsignupPage:140 - user already exists deleting by logging in with
+2025-07-06 16:08:05 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:08:05 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:08:07 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:08:11 INFO  loginORsignupPage:189 - ***** getting title of the page********
+2025-07-06 16:08:11 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:08:15 INFO  loginORsignupPage:126 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 16:08:16 INFO  loginORsignupPage:182 - ...........clicking signup button.......
+2025-07-06 16:08:43 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:08:43 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:08:51 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:08:58 INFO  loginORsignupPage:189 - ***** getting title of the page********
+2025-07-06 16:08:58 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:09:07 INFO  loginORsignupPage:213 - ..............getting loggedin user name.................
+2025-07-06 16:09:08 INFO  loginORsignupPage:325 - Attempting to delete account...
+2025-07-06 16:09:09 INFO  loginORsignupPage:331 - Delete account button clicked.
+2025-07-06 16:09:10 INFO  loginORsignupPage:101 - ****found continue button locator*****
+2025-07-06 16:09:13 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:09:13 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:09:15 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:09:20 INFO  loginORsignupPage:189 - ***** getting title of the page********
+2025-07-06 16:09:20 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:09:26 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:09:26 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:09:28 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:09:32 INFO  loginORsignupPage:189 - ***** getting title of the page********
+2025-07-06 16:09:32 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:09:41 INFO  loginORsignupPage:213 - ..............getting loggedin user name.................
+2025-07-06 16:09:41 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-06 16:09:43 INFO  loginORsignupPage:195 - ..............getting current url.................
+2025-07-06 16:09:44 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:09:44 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:09:46 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:09:50 INFO  loginORsignupPage:189 - ***** getting title of the page********
+2025-07-06 16:09:50 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:09:52 INFO  loginORsignupPage:126 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 16:09:53 INFO  loginORsignupPage:182 - ...........clicking signup button.......
+2025-07-06 16:09:55 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-06 16:32:35 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:32:35 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:32:39 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:32:44 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-06 16:32:44 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:32:49 INFO  loginORsignupPage:126 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 16:32:49 INFO  loginORsignupPage:164 - ...........clicking signup button.......
+2025-07-06 16:32:52 INFO  loginORsignupPage:357 - .............user already exists.................
+2025-07-06 16:32:52 INFO  loginORsignupPage:171 - user already exist error messsage detected
+2025-07-06 16:33:00 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:33:00 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:33:01 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:33:08 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-06 16:33:08 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:33:11 INFO  loginORsignupPage:126 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 16:33:11 INFO  loginORsignupPage:164 - ...........clicking signup button.......
+2025-07-06 16:33:14 INFO  loginORsignupPage:357 - .............user already exists.................
+2025-07-06 16:33:14 INFO  loginORsignupPage:171 - user already exist error messsage detected
+2025-07-06 16:33:20 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:33:20 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:33:22 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:33:27 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-06 16:33:27 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:33:37 INFO  loginORsignupPage:219 - ..............getting loggedin user name.................
+2025-07-06 16:33:38 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:33:38 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:33:40 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:33:51 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-06 16:33:51 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:34:17 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:34:17 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:34:19 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:34:24 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-06 16:34:24 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:34:31 INFO  loginORsignupPage:219 - ..............getting loggedin user name.................
+2025-07-06 16:34:31 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-06 16:34:33 INFO  loginORsignupPage:201 - ..............getting current url.................
+2025-07-06 16:34:33 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 16:34:33 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 16:34:35 INFO  loginORsignupPage:83 - Navigating to test url http://automationexercise.com
+2025-07-06 16:34:39 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-06 16:34:39 INFO  loginORsignupPage:90 - *****clicking signup/login Tab*********
+2025-07-06 16:34:41 INFO  loginORsignupPage:126 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 16:34:42 INFO  loginORsignupPage:164 - ...........clicking signup button.......
+2025-07-06 16:34:44 INFO  loginORsignupPage:357 - .............user already exists.................
+2025-07-06 16:34:44 INFO  loginORsignupPage:171 - user already exist error messsage detected
+2025-07-06 16:34:47 INFO  loginORsignupPage:156 - ..................clicking login button................
+2025-07-06 16:34:50 INFO  loginORsignupPage:331 - Attempting to delete account...
+2025-07-06 20:16:37 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:16:37 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:16:40 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:16:53 INFO  loginORsignupPage:201 - ***** getting title of the page********
+2025-07-06 20:16:53 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:17:00 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 20:17:01 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:17:03 INFO  loginORsignupPage:363 - .............user already exists.................
+2025-07-06 20:17:03 INFO  loginORsignupPage:172 - user already exist error messsage detected
+2025-07-06 20:22:22 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:22:23 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:22:25 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:22:31 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:22:31 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:22:36 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 20:22:37 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:22:39 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:22:39 INFO  loginORsignupPage:172 - user already exist error messsage detected
+2025-07-06 20:22:46 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:22:48 INFO  loginORsignupPage:157 - ..................clicking login button................
+2025-07-06 20:22:50 INFO  loginORsignupPage:339 - Attempting to delete account...
+2025-07-06 20:23:48 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:23:48 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:23:51 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:23:55 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:23:55 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:24:00 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 20:24:01 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:24:04 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:24:04 INFO  loginORsignupPage:172 - user already exist error messsage detected
+2025-07-06 20:24:06 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:24:12 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:24:15 INFO  loginORsignupPage:157 - ..................clicking login button................
+2025-07-06 20:24:16 INFO  loginORsignupPage:339 - Attempting to delete account...
+2025-07-06 20:25:28 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:25:28 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:25:30 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:25:53 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:25:53 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:25:56 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 20:25:57 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:25:59 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:25:59 INFO  loginORsignupPage:172 - user already exist error messsage detected
+2025-07-06 20:26:00 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:26:01 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:26:01 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:26:03 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:26:10 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:26:10 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:26:20 INFO  loginORsignupPage:227 - ..............getting loggedin user name.................
+2025-07-06 20:26:21 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:26:21 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:26:23 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:26:27 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:26:27 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:26:35 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:26:35 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:26:37 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:26:45 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:26:45 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:26:53 INFO  loginORsignupPage:227 - ..............getting loggedin user name.................
+2025-07-06 20:26:54 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-06 20:26:56 INFO  loginORsignupPage:209 - ..............getting current url.................
+2025-07-06 20:26:57 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:26:57 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:26:59 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:27:24 INFO  loginORsignupPage:203 - ***** getting title of the page********
+2025-07-06 20:27:24 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:27:27 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 20:27:28 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:27:31 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:27:31 INFO  loginORsignupPage:172 - user already exist error messsage detected
+2025-07-06 20:27:31 INFO  loginORsignupPage:365 - .............user already exists.................
+2025-07-06 20:36:45 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:36:45 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:36:47 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:36:55 INFO  loginORsignupPage:204 - ***** getting title of the page********
+2025-07-06 20:36:55 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:37:00 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 20:37:01 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:37:03 INFO  loginORsignupPage:176 - user already exist error messsage detected
+2025-07-06 20:37:03 INFO  loginORsignupPage:366 - .............user already exists.................
+2025-07-06 20:37:17 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:37:19 INFO  loginORsignupPage:157 - ..................clicking login button................
+2025-07-06 20:37:21 INFO  loginORsignupPage:340 - Attempting to delete account...
+2025-07-06 20:51:22 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:51:22 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:51:25 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:51:33 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:51:33 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:51:38 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 20:51:38 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:51:41 INFO  loginORsignupPage:210 - ..............get text of Form Heading.................
+2025-07-06 20:51:41 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:51:41 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-06 20:51:41 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:51:41 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-06 20:51:46 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:51:46 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:51:48 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:52:22 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:52:22 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:52:24 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 20:52:25 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:52:28 INFO  loginORsignupPage:255 - ..............select male title radio button.................
+2025-07-06 20:52:28 INFO  loginORsignupPage:271 - ..............entering password.................
+2025-07-06 20:52:28 INFO  loginORsignupPage:277 - Parsing DOB: 03/12/1996
+2025-07-06 20:52:28 INFO  loginORsignupPage:282 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-06 20:52:29 INFO  loginORsignupPage:302 - ..............check newsletters check box.................
+2025-07-06 20:52:30 INFO  loginORsignupPage:307 - ..............recove offers check box.................
+2025-07-06 20:52:33 INFO  loginORsignupPage:353 - ..............clicking createAccount button.................
+2025-07-06 20:52:36 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-06 20:52:41 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:52:41 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:52:42 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:52:47 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:52:47 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:52:53 INFO  loginORsignupPage:222 - ..............getting loggedin user name.................
+2025-07-06 20:52:53 INFO  loginORsignupPage:334 - Attempting to delete account...
+2025-07-06 20:52:55 INFO  loginORsignupPage:340 - Delete account button clicked.
+2025-07-06 20:52:55 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-06 20:53:00 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:53:00 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:53:01 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:53:11 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:53:11 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:53:17 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:53:17 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:53:18 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:53:37 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:53:37 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:53:49 INFO  loginORsignupPage:222 - ..............getting loggedin user name.................
+2025-07-06 20:53:50 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-06 20:53:53 INFO  loginORsignupPage:204 - ..............getting current url.................
+2025-07-06 20:53:54 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 20:53:54 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 20:53:55 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 20:54:05 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 20:54:05 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 20:54:08 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 20:54:08 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 20:54:10 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-06 21:03:13 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 21:03:13 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 21:03:16 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 21:03:26 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:03:26 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 21:03:32 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-06 21:03:33 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 21:03:35 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:03:35 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-06 21:03:40 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 21:03:40 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 21:03:41 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 21:03:47 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:03:47 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 21:03:50 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-06 21:03:51 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 21:03:53 INFO  loginORsignupPage:255 - ..............select male title radio button.................
+2025-07-06 21:03:53 INFO  loginORsignupPage:271 - ..............entering password.................
+2025-07-06 21:03:54 INFO  loginORsignupPage:277 - Parsing DOB: 03/12/1996
+2025-07-06 21:03:54 INFO  loginORsignupPage:282 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-06 21:03:55 INFO  loginORsignupPage:302 - ..............check newsletters check box.................
+2025-07-06 21:03:55 INFO  loginORsignupPage:307 - ..............recove offers check box.................
+2025-07-06 21:03:58 INFO  loginORsignupPage:353 - ..............clicking createAccount button.................
+2025-07-06 21:04:02 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-06 21:06:09 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 21:06:09 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 21:06:11 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 21:07:33 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:07:33 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 21:09:09 INFO  loginORsignupPage:222 - ..............getting loggedin user name.................
+2025-07-06 21:09:09 INFO  loginORsignupPage:334 - Attempting to delete account...
+2025-07-06 21:10:34 INFO  loginORsignupPage:340 - Delete account button clicked.
+2025-07-06 21:10:37 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 21:10:37 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 21:10:39 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 21:11:16 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:11:16 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 21:11:30 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 21:11:30 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 21:11:31 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 21:11:38 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:11:38 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 21:11:54 INFO  loginORsignupPage:222 - ..............getting loggedin user name.................
+2025-07-06 21:11:54 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-06 21:11:56 INFO  loginORsignupPage:204 - ..............getting current url.................
+2025-07-06 21:11:56 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-06 21:11:56 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-06 21:11:58 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-06 21:12:05 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-06 21:12:05 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-06 21:12:48 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-06 21:12:48 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-06 21:12:51 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 14:10:20 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:10:20 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:10:22 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:10:54 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:10:54 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:10:59 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 14:11:00 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-08 14:11:02 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:11:03 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 14:11:07 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:11:07 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:11:09 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:11:13 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:11:13 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:11:16 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 14:11:17 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-08 14:11:43 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:11:43 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:11:44 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:11:50 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:11:50 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:12:08 INFO  loginORsignupPage:222 - ..............getting loggedin user name.................
+2025-07-08 14:12:08 INFO  loginORsignupPage:334 - Attempting to delete account...
+2025-07-08 14:12:10 INFO  loginORsignupPage:340 - Delete account button clicked.
+2025-07-08 14:12:10 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 14:12:16 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:12:16 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:12:17 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:12:23 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:12:23 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:12:29 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:12:29 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:12:30 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:12:40 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:12:40 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:12:57 INFO  loginORsignupPage:222 - ..............getting loggedin user name.................
+2025-07-08 14:12:57 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 14:13:00 INFO  loginORsignupPage:204 - ..............getting current url.................
+2025-07-08 14:13:00 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:13:00 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:13:02 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:13:11 INFO  loginORsignupPage:198 - ***** getting title of the page********
+2025-07-08 14:13:11 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:13:13 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 14:13:14 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-08 14:13:16 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 14:18:14 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 14:18:15 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 14:18:17 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:18:56 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:18:56 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:19:01 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 14:19:02 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 14:19:05 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:19:05 INFO  loginORsignupPage:361 - .............user already exists.................
+2025-07-08 14:19:05 INFO  loginORsignupPage:211 - ..............get text of Form Heading.................
+2025-07-08 14:19:06 INFO  loginORsignupPage:256 - ..............select male title radio button.................
+2025-07-08 14:19:06 INFO  loginORsignupPage:272 - ..............entering password.................
+2025-07-08 14:19:07 INFO  loginORsignupPage:278 - Parsing DOB: 18/6/1992
+2025-07-08 14:19:07 INFO  loginORsignupPage:283 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 14:19:08 INFO  loginORsignupPage:303 - ..............check newsletters check box.................
+2025-07-08 14:19:08 INFO  loginORsignupPage:308 - ..............recove offers check box.................
+2025-07-08 14:19:12 INFO  loginORsignupPage:354 - ..............clicking createAccount button.................
+2025-07-08 14:19:15 INFO  loginORsignupPage:329 - ..............waiting for account created message.................
+2025-07-08 14:19:15 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 14:19:43 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 14:19:43 INFO  loginORsignupPage:335 - Attempting to delete account...
+2025-07-08 14:19:45 INFO  loginORsignupPage:341 - Delete account button clicked.
+2025-07-08 14:19:45 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 14:20:26 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 14:20:26 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 14:20:30 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:20:45 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:20:45 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:20:47 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 14:20:48 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 14:20:50 INFO  loginORsignupPage:256 - ..............select male title radio button.................
+2025-07-08 14:20:50 INFO  loginORsignupPage:272 - ..............entering password.................
+2025-07-08 14:20:51 INFO  loginORsignupPage:278 - Parsing DOB: 03/12/1996
+2025-07-08 14:20:51 INFO  loginORsignupPage:283 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-08 14:20:53 INFO  loginORsignupPage:303 - ..............check newsletters check box.................
+2025-07-08 14:20:53 INFO  loginORsignupPage:308 - ..............recove offers check box.................
+2025-07-08 14:20:57 INFO  loginORsignupPage:354 - ..............clicking createAccount button.................
+2025-07-08 14:21:00 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 14:22:44 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 14:22:44 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 14:22:46 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:24:23 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:24:23 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:26:44 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 14:26:44 INFO  loginORsignupPage:335 - Attempting to delete account...
+2025-07-08 14:26:46 INFO  loginORsignupPage:341 - Delete account button clicked.
+2025-07-08 14:26:47 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 14:26:50 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 14:26:50 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 14:26:52 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:27:15 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:27:15 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:27:19 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 14:27:19 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 14:27:21 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:27:24 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:27:24 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:27:31 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 14:27:32 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 14:27:33 INFO  loginORsignupPage:205 - ..............getting current url.................
+2025-07-08 14:27:33 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 14:27:33 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 14:27:35 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 14:28:42 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 14:28:42 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 14:28:48 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 14:28:49 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 14:28:54 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 15:33:16 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:33:16 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:33:21 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:33:25 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:33:25 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:33:30 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 15:33:31 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 15:33:35 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:33:35 INFO  loginORsignupPage:363 - .............user already exists.................
+2025-07-08 15:33:35 INFO  loginORsignupPage:211 - ..............get text of Form Heading.................
+2025-07-08 15:33:35 INFO  loginORsignupPage:257 - ..............select male title radio button.................
+2025-07-08 15:33:36 INFO  loginORsignupPage:273 - ..............entering password.................
+2025-07-08 15:33:36 INFO  loginORsignupPage:279 - Parsing DOB: 18/6/1992
+2025-07-08 15:33:36 INFO  loginORsignupPage:284 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 15:33:37 INFO  loginORsignupPage:304 - ..............check newsletters check box.................
+2025-07-08 15:33:38 INFO  loginORsignupPage:309 - ..............recove offers check box.................
+2025-07-08 15:33:43 INFO  loginORsignupPage:356 - ..............clicking createAccount button.................
+2025-07-08 15:33:45 INFO  loginORsignupPage:330 - ..............waiting for account created message.................
+2025-07-08 15:33:46 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 15:33:52 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 15:33:52 INFO  loginORsignupPage:336 - Attempting to delete account...
+2025-07-08 15:33:53 INFO  loginORsignupPage:342 - Delete account button clicked.
+2025-07-08 15:33:53 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 15:34:01 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:34:01 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:34:03 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:34:07 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:34:07 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:34:09 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 15:34:10 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 15:34:12 INFO  loginORsignupPage:257 - ..............select male title radio button.................
+2025-07-08 15:34:12 INFO  loginORsignupPage:273 - ..............entering password.................
+2025-07-08 15:34:13 INFO  loginORsignupPage:279 - Parsing DOB: 03/12/1996
+2025-07-08 15:34:13 INFO  loginORsignupPage:284 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-08 15:34:13 INFO  loginORsignupPage:304 - ..............check newsletters check box.................
+2025-07-08 15:34:14 INFO  loginORsignupPage:309 - ..............recove offers check box.................
+2025-07-08 15:34:16 INFO  loginORsignupPage:356 - ..............clicking createAccount button.................
+2025-07-08 15:34:18 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 15:39:20 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:39:20 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:39:21 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:39:25 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:39:25 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:39:25 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:39:27 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:39:31 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:39:31 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:39:35 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:39:35 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:39:37 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:39:41 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:39:41 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:41:53 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 15:41:53 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 15:41:55 INFO  loginORsignupPage:205 - ..............getting current url.................
+2025-07-08 15:41:56 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:41:56 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:41:58 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:42:02 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:42:02 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:42:05 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 15:42:05 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 15:42:07 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 15:46:48 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:46:48 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:46:51 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:46:54 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:46:54 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:46:59 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 15:47:00 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 15:47:02 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:47:03 INFO  loginORsignupPage:363 - .............user already exists.................
+2025-07-08 15:47:03 INFO  loginORsignupPage:211 - ..............get text of Form Heading.................
+2025-07-08 15:47:03 INFO  loginORsignupPage:257 - ..............select male title radio button.................
+2025-07-08 15:47:03 INFO  loginORsignupPage:273 - ..............entering password.................
+2025-07-08 15:47:04 INFO  loginORsignupPage:279 - Parsing DOB: 18/6/1992
+2025-07-08 15:47:04 INFO  loginORsignupPage:284 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 15:47:05 INFO  loginORsignupPage:304 - ..............check newsletters check box.................
+2025-07-08 15:47:05 INFO  loginORsignupPage:309 - ..............recove offers check box.................
+2025-07-08 15:47:10 INFO  loginORsignupPage:356 - ..............clicking createAccount button.................
+2025-07-08 15:47:13 INFO  loginORsignupPage:330 - ..............waiting for account created message.................
+2025-07-08 15:47:13 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 15:52:15 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:52:15 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:52:17 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:52:22 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:52:22 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:52:23 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 15:52:24 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 15:52:50 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:52:50 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:52:52 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:52:57 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:52:57 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:53:05 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 15:53:05 INFO  loginORsignupPage:336 - Attempting to delete account...
+2025-07-08 15:53:06 INFO  loginORsignupPage:342 - Delete account button clicked.
+2025-07-08 15:53:07 INFO  loginORsignupPage:102 - ****found continue button locator*****
+2025-07-08 15:53:11 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:53:11 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:53:12 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:55:39 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:55:39 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:55:43 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:55:43 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:55:45 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:55:49 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:55:49 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:56:13 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 15:56:13 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 15:56:15 INFO  loginORsignupPage:205 - ..............getting current url.................
+2025-07-08 15:56:15 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 15:56:15 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 15:56:17 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 15:56:25 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 15:56:25 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 15:57:24 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 15:58:27 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 15:58:36 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 16:07:53 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:07:53 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:07:56 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:08:00 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:08:00 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:08:03 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 16:08:04 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:08:05 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:08:05 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 16:08:08 INFO  loginORsignupPage:211 - ..............get text of Form Heading.................
+2025-07-08 16:08:10 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:08:10 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:08:12 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:08:19 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:08:19 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:08:22 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 16:08:22 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:08:24 INFO  loginORsignupPage:255 - ..............select male title radio button.................
+2025-07-08 16:08:24 INFO  loginORsignupPage:271 - ..............entering password.................
+2025-07-08 16:08:25 INFO  loginORsignupPage:277 - Parsing DOB: 03/12/1996
+2025-07-08 16:08:25 INFO  loginORsignupPage:282 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-08 16:08:26 INFO  loginORsignupPage:302 - ..............check newsletters check box.................
+2025-07-08 16:08:26 INFO  loginORsignupPage:307 - ..............recove offers check box.................
+2025-07-08 16:08:32 INFO  loginORsignupPage:352 - ..............clicking createAccount button.................
+2025-07-08 16:08:35 INFO  loginORsignupPage:101 - ****found continue button webelement*****
+2025-07-08 16:13:37 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:13:37 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:13:39 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:14:34 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:14:34 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:14:36 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:14:43 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:14:43 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:14:48 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 16:14:49 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:14:51 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:14:52 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 16:14:55 INFO  loginORsignupPage:211 - ..............get text of Form Heading.................
+2025-07-08 16:14:57 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:14:57 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:14:59 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:15:10 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:15:10 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:15:12 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:15:12 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:15:14 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:15:18 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:15:18 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:16:31 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:16:31 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:16:34 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:17:10 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:17:10 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:17:14 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 16:17:14 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:17:16 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:17:16 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 16:17:19 INFO  loginORsignupPage:211 - ..............get text of Form Heading.................
+2025-07-08 16:17:21 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:17:21 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:17:23 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:17:36 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:17:36 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:17:38 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 16:17:39 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:18:05 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:18:05 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:18:07 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:19:31 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:19:31 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:22:13 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:22:13 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:22:16 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:22:21 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:22:21 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:22:25 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 16:22:26 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:22:27 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:22:27 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 16:22:27 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:22:52 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:22:52 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:22:54 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:22:59 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:22:59 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:23:01 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 16:23:02 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:23:28 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:23:28 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:23:30 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:24:29 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:24:29 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:24:42 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 16:24:42 INFO  loginORsignupPage:334 - Attempting to delete account...
+2025-07-08 16:24:43 INFO  loginORsignupPage:338 - Delete account button clicked.
+2025-07-08 16:24:48 INFO  loginORsignupPage:102 - ****continue button to be clicked*****
+2025-07-08 16:24:48 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:24:48 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:24:50 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:24:58 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:24:58 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:25:02 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:25:02 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:25:04 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:25:14 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:25:14 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:25:21 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 16:25:22 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 16:25:23 INFO  loginORsignupPage:205 - ..............getting current url.................
+2025-07-08 16:25:24 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:25:24 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:25:25 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:25:30 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:25:30 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:25:32 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 16:25:33 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:25:35 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 16:30:03 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:30:03 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:30:06 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:30:19 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:30:19 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:30:22 INFO  loginORsignupPage:127 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 16:30:23 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:30:25 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:30:25 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 16:30:25 INFO  loginORsignupPage:360 - .............user already exists.................
+2025-07-08 16:30:26 INFO  loginORsignupPage:157 - ..................clicking login button................
+2025-07-08 16:30:37 INFO  loginORsignupPage:334 - Attempting to delete account...
+2025-07-08 16:30:38 INFO  loginORsignupPage:338 - Delete account button clicked.
+2025-07-08 16:30:39 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:30:39 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:31:04 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:31:04 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:31:05 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:31:18 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:31:18 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:31:20 INFO  loginORsignupPage:127 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 16:31:21 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:31:22 INFO  loginORsignupPage:255 - ..............select male title radio button.................
+2025-07-08 16:31:23 INFO  loginORsignupPage:271 - ..............entering password.................
+2025-07-08 16:31:23 INFO  loginORsignupPage:277 - Parsing DOB: 03/12/1996
+2025-07-08 16:31:23 INFO  loginORsignupPage:282 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-08 16:31:24 INFO  loginORsignupPage:302 - ..............check newsletters check box.................
+2025-07-08 16:31:24 INFO  loginORsignupPage:307 - ..............recove offers check box.................
+2025-07-08 16:31:30 INFO  loginORsignupPage:352 - ..............clicking createAccount button.................
+2025-07-08 16:34:49 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:34:49 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:34:51 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:35:23 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:35:23 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:36:24 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 16:36:25 INFO  loginORsignupPage:334 - Attempting to delete account...
+2025-07-08 16:36:26 INFO  loginORsignupPage:338 - Delete account button clicked.
+2025-07-08 16:37:40 INFO  loginORsignupPage:102 - ****continue button to be clicked*****
+2025-07-08 16:37:41 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:37:41 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:37:43 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:37:50 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:37:51 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:37:58 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:37:58 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:38:00 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:38:04 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:38:04 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:39:42 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 16:39:42 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 16:39:47 INFO  loginORsignupPage:205 - ..............getting current url.................
+2025-07-08 16:39:48 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:39:48 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:39:50 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:39:54 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:39:54 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:39:56 INFO  loginORsignupPage:127 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 16:39:57 INFO  loginORsignupPage:166 - ...........clicking signup button.......
+2025-07-08 16:40:20 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 16:54:35 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:54:35 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:54:38 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:54:43 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:54:43 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:54:47 INFO  loginORsignupPage:126 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 16:54:47 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-08 16:54:49 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:54:49 INFO  loginORsignupPage:361 - .............user already exists.................
+2025-07-08 16:54:49 INFO  loginORsignupPage:361 - .............user already exists.................
+2025-07-08 16:54:55 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:54:55 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:54:57 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:55:27 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:55:27 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:55:30 INFO  loginORsignupPage:126 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 16:55:31 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-08 16:55:34 INFO  loginORsignupPage:255 - ..............select male title radio button.................
+2025-07-08 16:55:34 INFO  loginORsignupPage:271 - ..............entering password.................
+2025-07-08 16:55:35 INFO  loginORsignupPage:277 - Parsing DOB: 03/12/1996
+2025-07-08 16:55:35 INFO  loginORsignupPage:282 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-08 16:55:36 INFO  loginORsignupPage:302 - ..............check newsletters check box.................
+2025-07-08 16:55:36 INFO  loginORsignupPage:307 - ..............recove offers check box.................
+2025-07-08 16:55:41 INFO  loginORsignupPage:353 - ..............clicking createAccount button.................
+2025-07-08 16:56:21 INFO  loginORsignupPage:101 - ****continue button to be clicked*****
+2025-07-08 16:56:22 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:56:22 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:56:24 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:56:41 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:56:41 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:56:54 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 16:56:55 INFO  loginORsignupPage:336 - Attempting to delete account...
+2025-07-08 16:56:57 INFO  loginORsignupPage:339 - Delete account button clicked.
+2025-07-08 16:57:02 INFO  loginORsignupPage:101 - ****continue button to be clicked*****
+2025-07-08 16:57:02 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:57:02 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:57:04 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:57:09 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:57:09 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:57:14 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:57:14 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:57:16 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:57:21 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:57:21 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:57:37 INFO  loginORsignupPage:223 - ..............getting loggedin user name.................
+2025-07-08 16:57:37 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 16:57:40 INFO  loginORsignupPage:205 - ..............getting current url.................
+2025-07-08 16:57:40 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 16:57:40 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 16:57:42 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 16:57:58 INFO  loginORsignupPage:199 - ***** getting title of the page********
+2025-07-08 16:57:58 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 16:58:00 INFO  loginORsignupPage:126 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 16:58:00 INFO  loginORsignupPage:165 - ...........clicking signup button.......
+2025-07-08 16:58:02 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................
+2025-07-08 17:21:24 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 17:21:24 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 17:21:27 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 17:21:33 INFO  loginORsignupPage:185 - ***** getting title of the page********
+2025-07-08 17:21:33 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 17:21:36 INFO  loginORsignupPage:118 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 17:21:37 INFO  loginORsignupPage:157 - ...........clicking signup button.......
+2025-07-08 17:21:38 INFO  loginORsignupPage:185 - ***** getting title of the page********
+2025-07-08 17:21:39 INFO  loginORsignupPage:348 - .............user already exists.................
+2025-07-08 17:21:39 INFO  loginORsignupPage:348 - .............user already exists.................
+2025-07-08 17:28:21 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 17:28:21 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 17:28:24 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 17:29:14 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 17:29:14 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 17:29:19 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 17:30:50 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 17:30:50 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 17:30:53 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 17:31:40 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 17:31:40 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 17:31:43 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 17:57:40 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 17:57:40 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 17:57:43 INFO  loginORsignupPage:84 - Navigating to test url http://automationexercise.com
+2025-07-08 17:57:49 INFO  loginORsignupPage:188 - ***** getting title of the page********
+2025-07-08 17:57:49 INFO  loginORsignupPage:91 - *****clicking signup/login Tab*********
+2025-07-08 17:57:54 INFO  loginORsignupPage:118 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 17:57:54 INFO  loginORsignupPage:157 - ...........clicking signup button.......
+2025-07-08 18:02:22 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:02:22 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:02:24 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:02:33 INFO  loginORsignupPage:187 - ***** getting title of the page********
+2025-07-08 18:02:33 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:02:37 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:02:38 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:02:39 INFO  loginORsignupPage:156 - clicking signup button
+2025-07-08 18:06:56 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:06:56 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:07:00 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:08:04 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:08:04 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:08:06 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:08:12 INFO  loginORsignupPage:188 - ***** getting title of the page********
+2025-07-08 18:08:13 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:08:18 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:08:19 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:08:20 INFO  loginORsignupPage:155 - clicking signup button
+2025-07-08 18:13:34 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:13:34 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:13:37 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:13:42 INFO  loginORsignupPage:188 - ***** getting title of the page********
+2025-07-08 18:13:42 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:13:45 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:13:46 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:13:47 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:21:51 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:21:51 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:21:54 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:22:41 INFO  loginORsignupPage:196 - ***** getting title of the page********
+2025-07-08 18:22:42 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:22:55 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:22:57 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:22:58 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:38:10 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:38:10 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:38:12 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:38:17 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-08 18:38:17 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:38:19 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:38:21 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:38:21 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:38:23 INFO  loginORsignupPage:359 - User already exists = true
+2025-07-08 18:38:23 INFO  loginORsignupPage:163 - retrying signup for the error message occured
+2025-07-08 18:38:24 INFO  loginORsignupPage:195 - ***** getting title of the page********
+2025-07-08 18:38:27 INFO  loginORsignupPage:172 - Entering email into the email text fild in retry method
+2025-07-08 18:43:03 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:43:03 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:44:32 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:44:32 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:44:34 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:44:40 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:44:40 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:44:43 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:44:44 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:44:45 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:44:47 INFO  loginORsignupPage:355 - User already exists = true
+2025-07-08 18:44:47 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:44:47 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:44:47 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:44:47 INFO  loginORsignupPage:295 - ..............check newsletters check box.................
+2025-07-08 18:44:48 INFO  loginORsignupPage:300 - ..............recove offers check box.................
+2025-07-08 18:44:52 INFO  loginORsignupPage:346 - ..............clicking createAccount button.................
+2025-07-08 18:44:53 INFO  loginORsignupPage:321 - ..............waiting for account created message.................
+2025-07-08 18:53:45 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:53:45 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:53:47 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:53:52 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:53:52 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:53:56 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:53:57 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:53:58 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:54:00 INFO  loginORsignupPage:355 - User already exists = true
+2025-07-08 18:54:00 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:54:00 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:54:00 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:54:00 INFO  loginORsignupPage:295 - ..............check newsletters check box.................
+2025-07-08 18:54:01 INFO  loginORsignupPage:300 - ..............recove offers check box.................
+2025-07-08 18:54:06 INFO  loginORsignupPage:346 - ..............clicking createAccount button.................
+2025-07-08 18:54:06 INFO  loginORsignupPage:321 - ..............waiting for account created message.................
+2025-07-08 18:55:22 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:55:22 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:55:24 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:55:30 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:55:30 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:55:33 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:55:34 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:55:34 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:55:37 INFO  loginORsignupPage:355 - User already exists = true
+2025-07-08 18:55:37 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:55:37 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:55:37 INFO  loginORsignupPage:248 - ..............select male title radio button.................
+2025-07-08 18:55:37 INFO  loginORsignupPage:264 - ..............entering password.................
+2025-07-08 18:55:38 INFO  loginORsignupPage:270 - Parsing DOB: 18/6/1992
+2025-07-08 18:55:38 INFO  loginORsignupPage:275 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 18:55:39 INFO  loginORsignupPage:295 - ..............check newsletters check box.................
+2025-07-08 18:55:39 INFO  loginORsignupPage:300 - ..............recove offers check box.................
+2025-07-08 18:55:43 INFO  loginORsignupPage:346 - ..............clicking createAccount button.................
+2025-07-08 18:55:46 INFO  loginORsignupPage:321 - ..............waiting for account created message.................
+2025-07-08 18:55:50 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 18:55:50 INFO  loginORsignupPage:329 - Attempting to delete account...
+2025-07-08 18:55:54 INFO  loginORsignupPage:332 - Delete account button clicked.
+2025-07-08 18:59:06 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 18:59:06 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 18:59:08 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 18:59:12 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:59:13 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 18:59:16 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 18:59:17 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 18:59:18 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 18:59:19 INFO  loginORsignupPage:355 - User already exists = true
+2025-07-08 18:59:19 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:59:20 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 18:59:20 INFO  loginORsignupPage:248 - ..............select male title radio button.................
+2025-07-08 18:59:20 INFO  loginORsignupPage:264 - ..............entering password.................
+2025-07-08 18:59:21 INFO  loginORsignupPage:270 - Parsing DOB: 18/6/1992
+2025-07-08 18:59:21 INFO  loginORsignupPage:275 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 18:59:22 INFO  loginORsignupPage:295 - ..............check newsletters check box.................
+2025-07-08 18:59:23 INFO  loginORsignupPage:300 - ..............recove offers check box.................
+2025-07-08 18:59:27 INFO  loginORsignupPage:345 - ..............clicking createAccount button.................
+2025-07-08 18:59:30 INFO  loginORsignupPage:321 - ..............waiting for account created message.................
+2025-07-08 18:59:34 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 18:59:34 INFO  loginORsignupPage:329 - Attempting to delete account...
+2025-07-08 18:59:36 INFO  loginORsignupPage:332 - Delete account button clicked.
+2025-07-08 19:07:15 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 19:07:15 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 19:07:17 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 19:07:44 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:07:44 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 19:07:47 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 19:07:48 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 19:07:49 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 19:07:51 INFO  loginORsignupPage:358 - User already exists = true
+2025-07-08 19:07:51 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:07:51 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:07:51 INFO  loginORsignupPage:248 - ..............select male title radio button.................
+2025-07-08 19:07:51 INFO  loginORsignupPage:264 - ..............entering password.................
+2025-07-08 19:07:52 INFO  loginORsignupPage:270 - Parsing DOB: 18/6/1992
+2025-07-08 19:07:52 INFO  loginORsignupPage:275 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 19:07:53 INFO  loginORsignupPage:295 - ..............check newsletters check box.................
+2025-07-08 19:07:53 INFO  loginORsignupPage:300 - ..............recove offers check box.................
+2025-07-08 19:07:56 INFO  loginORsignupPage:348 - ..............clicking createAccount button.................
+2025-07-08 19:07:59 INFO  loginORsignupPage:321 - ..............waiting for account created message.................
+2025-07-08 19:08:03 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 19:08:03 INFO  loginORsignupPage:329 - Attempting to delete account...
+2025-07-08 19:08:04 INFO  loginORsignupPage:332 - Delete account button clicked.
+2025-07-08 19:08:04 INFO  loginORsignupPage:337 - waiting for account deleted message to display
+2025-07-08 19:08:06 INFO  loginORsignupPage:337 - waiting for account deleted message to display
+2025-07-08 19:12:27 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 19:12:27 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 19:12:33 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 19:12:39 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:12:39 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 19:12:42 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 19:12:45 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 19:12:46 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 19:12:48 INFO  loginORsignupPage:360 - User already exists = true
+2025-07-08 19:12:48 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:12:48 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:12:49 INFO  loginORsignupPage:250 - ..............select male title radio button.................
+2025-07-08 19:12:49 INFO  loginORsignupPage:266 - ..............entering password.................
+2025-07-08 19:12:50 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 19:12:50 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 19:12:51 INFO  loginORsignupPage:297 - ..............check newsletters check box.................
+2025-07-08 19:12:51 INFO  loginORsignupPage:302 - ..............recove offers check box.................
+2025-07-08 19:12:54 INFO  loginORsignupPage:350 - ..............clicking createAccount button.................
+2025-07-08 19:12:57 INFO  loginORsignupPage:323 - ..............waiting for account created message.................
+2025-07-08 19:13:01 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 19:13:01 INFO  loginORsignupPage:331 - Attempting to delete account...
+2025-07-08 19:13:03 INFO  loginORsignupPage:334 - Delete account button clicked.
+2025-07-08 19:13:03 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 19:13:03 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 19:13:07 INFO  loginORsignupPage:339 - waiting for account deleted message to display
+2025-07-08 19:19:33 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 19:19:33 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 19:19:35 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 19:19:43 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:19:43 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 19:19:46 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 19:19:47 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 19:19:48 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 19:19:50 INFO  loginORsignupPage:359 - User already exists = true
+2025-07-08 19:19:50 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:19:50 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:19:50 INFO  loginORsignupPage:250 - ..............select male title radio button.................
+2025-07-08 19:19:50 INFO  loginORsignupPage:266 - ..............entering password.................
+2025-07-08 19:19:51 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 19:19:51 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 19:19:52 INFO  loginORsignupPage:297 - ..............check newsletters check box.................
+2025-07-08 19:19:53 INFO  loginORsignupPage:302 - ..............recove offers check box.................
+2025-07-08 19:19:57 INFO  loginORsignupPage:349 - ..............clicking createAccount button.................
+2025-07-08 19:20:01 INFO  loginORsignupPage:323 - ..............waiting for account created message.................
+2025-07-08 19:20:04 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 19:20:04 INFO  loginORsignupPage:331 - Attempting to delete account...
+2025-07-08 19:20:06 INFO  loginORsignupPage:334 - Delete account button clicked.
+2025-07-08 19:20:06 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 19:20:06 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 19:20:13 INFO  loginORsignupPage:339 - waiting for account deleted message to display
+2025-07-08 19:24:17 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 19:24:17 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 19:24:20 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 19:24:26 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:24:26 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 19:24:30 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 19:24:31 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 19:24:32 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 19:24:34 INFO  loginORsignupPage:359 - User already exists = true
+2025-07-08 19:24:34 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:24:34 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 19:24:35 INFO  loginORsignupPage:250 - ..............select male title radio button.................
+2025-07-08 19:24:35 INFO  loginORsignupPage:266 - ..............entering password.................
+2025-07-08 19:24:36 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 19:24:36 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 19:24:37 INFO  loginORsignupPage:297 - ..............check newsletters check box.................
+2025-07-08 19:24:38 INFO  loginORsignupPage:302 - ..............recove offers check box.................
+2025-07-08 19:24:42 INFO  loginORsignupPage:349 - ..............clicking createAccount button.................
+2025-07-08 19:24:45 INFO  loginORsignupPage:323 - ..............waiting for account created message.................
+2025-07-08 19:25:37 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 19:25:37 INFO  loginORsignupPage:331 - Attempting to delete account...
+2025-07-08 19:25:41 INFO  loginORsignupPage:334 - Delete account button clicked.
+2025-07-08 19:25:41 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 19:25:41 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 19:25:41 INFO  loginORsignupPage:339 - waiting for account deleted message to display
+2025-07-08 21:18:15 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:18:15 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:18:18 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:18:24 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:18:24 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 21:18:27 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:18:29 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:18:29 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:18:33 INFO  loginORsignupPage:360 - User already exists = true
+2025-07-08 21:18:33 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:18:33 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:18:33 INFO  loginORsignupPage:250 - ..............select male title radio button.................
+2025-07-08 21:18:33 INFO  loginORsignupPage:266 - ..............entering password.................
+2025-07-08 21:18:34 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 21:18:34 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:18:35 INFO  loginORsignupPage:297 - ..............check newsletters check box.................
+2025-07-08 21:18:36 INFO  loginORsignupPage:302 - ..............recove offers check box.................
+2025-07-08 21:18:40 INFO  loginORsignupPage:350 - ..............clicking createAccount button.................
+2025-07-08 21:18:45 INFO  loginORsignupPage:323 - ..............waiting for account created message.................
+2025-07-08 21:18:52 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 21:18:52 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 21:18:55 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 21:18:55 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 21:18:55 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 21:18:55 INFO  loginORsignupPage:340 - waiting for account deleted message to display
+2025-07-08 21:19:04 INFO  loginORsignupPage:340 - waiting for account deleted message to display
+2025-07-08 21:29:38 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:29:38 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:29:40 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:29:45 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:29:45 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 21:29:48 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:29:49 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:29:50 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:29:52 INFO  loginORsignupPage:361 - User already exists = true
+2025-07-08 21:29:52 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:29:52 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:29:53 INFO  loginORsignupPage:250 - ..............select male title radio button.................
+2025-07-08 21:29:53 INFO  loginORsignupPage:266 - ..............entering password.................
+2025-07-08 21:29:53 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 21:29:53 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:29:54 INFO  loginORsignupPage:297 - ..............check newsletters check box.................
+2025-07-08 21:29:54 INFO  loginORsignupPage:302 - ..............recove offers check box.................
+2025-07-08 21:29:58 INFO  loginORsignupPage:351 - ..............clicking createAccount button.................
+2025-07-08 21:30:01 INFO  loginORsignupPage:323 - ..............waiting for account created message.................
+2025-07-08 21:30:07 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 21:30:07 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 21:30:09 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 21:30:09 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 21:30:09 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 21:30:09 INFO  loginORsignupPage:340 - waiting for account deleted message to display
+2025-07-08 21:30:16 INFO  loginORsignupPage:340 - waiting for account deleted message to display
+2025-07-08 21:36:29 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:36:29 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:36:31 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:36:40 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:36:40 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 21:36:43 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:36:45 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:36:45 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:36:49 INFO  loginORsignupPage:361 - User already exists = true
+2025-07-08 21:36:49 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:36:49 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:36:50 INFO  loginORsignupPage:250 - ..............select male title radio button.................
+2025-07-08 21:36:50 INFO  loginORsignupPage:266 - ..............entering password.................
+2025-07-08 21:36:51 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 21:36:51 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:36:52 INFO  loginORsignupPage:297 - ..............check newsletters check box.................
+2025-07-08 21:36:52 INFO  loginORsignupPage:302 - ..............recove offers check box.................
+2025-07-08 21:36:56 INFO  loginORsignupPage:351 - ..............clicking createAccount button.................
+2025-07-08 21:37:00 INFO  loginORsignupPage:323 - ..............waiting for account created message.................
+2025-07-08 21:37:06 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 21:37:06 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 21:37:08 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 21:37:08 INFO  loginORsignupPage:340 - waiting for account deleted message to display
+2025-07-08 21:37:08 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 21:37:08 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 21:37:12 INFO  loginORsignupPage:340 - waiting for account deleted message to display
+2025-07-08 21:39:16 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:39:16 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:39:18 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:39:23 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:39:23 INFO  loginORsignupPage:89 - *****clicking signup/login Tab*********
+2025-07-08 21:39:26 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:39:28 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:39:28 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:39:30 INFO  loginORsignupPage:362 - User already exists = true
+2025-07-08 21:39:30 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:39:31 INFO  loginORsignupPage:191 - ***** getting title of the page********
+2025-07-08 21:39:31 INFO  loginORsignupPage:251 - ..............select male title radio button.................
+2025-07-08 21:39:31 INFO  loginORsignupPage:267 - ..............entering password.................
+2025-07-08 21:39:32 INFO  loginORsignupPage:273 - Parsing DOB: 18/6/1992
+2025-07-08 21:39:32 INFO  loginORsignupPage:278 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:39:32 INFO  loginORsignupPage:298 - ..............check newsletters check box.................
+2025-07-08 21:39:33 INFO  loginORsignupPage:303 - ..............recove offers check box.................
+2025-07-08 21:39:36 INFO  loginORsignupPage:352 - ..............clicking createAccount button.................
+2025-07-08 21:39:39 INFO  loginORsignupPage:324 - ..............waiting for account created message.................
+2025-07-08 21:39:40 INFO  loginORsignupPage:232 - Clicking on continue button
+2025-07-08 21:39:43 INFO  loginORsignupPage:215 - ..............getting loggedin user name.................
+2025-07-08 21:39:43 INFO  loginORsignupPage:333 - Attempting to delete account...
+2025-07-08 21:39:44 INFO  loginORsignupPage:336 - Delete account button clicked.
+2025-07-08 21:39:44 INFO  loginORsignupPage:341 - waiting for account deleted message to display
+2025-07-08 21:39:45 INFO  loginORsignupPage:222 - ..............waiting for account deleted message.................
+2025-07-08 21:39:45 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 21:39:45 INFO  loginORsignupPage:232 - Clicking on continue button
+2025-07-08 21:39:51 INFO  loginORsignupPage:341 - waiting for account deleted message to display
+2025-07-08 21:44:54 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:44:54 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:44:57 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:45:05 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:45:05 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 21:45:10 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:45:11 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:45:12 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:45:16 INFO  loginORsignupPage:361 - User already exists = true
+2025-07-08 21:45:16 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:45:16 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:45:16 INFO  loginORsignupPage:251 - select male title radio button
+2025-07-08 21:45:16 INFO  loginORsignupPage:267 - entering password
+2025-07-08 21:45:17 INFO  loginORsignupPage:273 - Parsing DOB: 18/6/1992
+2025-07-08 21:45:17 INFO  loginORsignupPage:278 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:45:19 INFO  loginORsignupPage:298 - check newsletters check box
+2025-07-08 21:45:19 INFO  loginORsignupPage:303 - recove offers check box
+2025-07-08 21:45:23 INFO  loginORsignupPage:351 - clicking createAccount button
+2025-07-08 21:45:28 INFO  loginORsignupPage:324 - waiting for account created message
+2025-07-08 21:45:28 INFO  loginORsignupPage:232 - Clicking on continue button
+2025-07-08 21:45:35 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 21:45:35 INFO  loginORsignupPage:333 - Attempting to delete account...
+2025-07-08 21:45:38 INFO  loginORsignupPage:336 - Delete account button clicked.
+2025-07-08 21:45:39 INFO  loginORsignupPage:343 - waiting for account deleted message to display =ACCOUNT DELETED!
+2025-07-08 21:45:39 INFO  loginORsignupPage:222 - waiting for account deleted message
+2025-07-08 21:45:39 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 21:45:39 INFO  loginORsignupPage:232 - Clicking on continue button
+2025-07-08 21:47:54 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:47:54 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:47:56 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:48:04 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:48:04 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 21:48:07 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:48:09 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:48:10 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:48:13 INFO  loginORsignupPage:361 - User already exists = true
+2025-07-08 21:48:13 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:48:13 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:48:14 INFO  loginORsignupPage:251 - select male title radio button
+2025-07-08 21:48:14 INFO  loginORsignupPage:267 - entering password
+2025-07-08 21:48:15 INFO  loginORsignupPage:273 - Parsing DOB: 18/6/1992
+2025-07-08 21:48:15 INFO  loginORsignupPage:278 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:48:16 INFO  loginORsignupPage:298 - check newsletters check box
+2025-07-08 21:48:17 INFO  loginORsignupPage:303 - recove offers check box
+2025-07-08 21:48:22 INFO  loginORsignupPage:351 - clicking createAccount button
+2025-07-08 21:48:25 INFO  loginORsignupPage:324 - waiting for account created message
+2025-07-08 21:48:25 INFO  loginORsignupPage:232 - Clicking on continue button
+2025-07-08 21:48:31 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 21:48:31 INFO  loginORsignupPage:333 - Attempting to delete account...
+2025-07-08 21:48:34 INFO  loginORsignupPage:336 - Delete account button clicked.
+2025-07-08 21:48:34 INFO  loginORsignupPage:343 - waiting for account deleted message to display =ACCOUNT DELETED!
+2025-07-08 21:48:34 INFO  loginORsignupPage:222 - waiting for account deleted message
+2025-07-08 21:48:34 INFO  loginORsignupPage:225 - getting account deletion status =true
+2025-07-08 21:48:34 INFO  loginORsignupPage:232 - Clicking on continue button
+2025-07-08 21:55:44 INFO  WebDriverManager:1219 - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2025-07-08 21:55:44 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2025-07-08 21:55:46 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 21:56:19 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:56:19 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 21:56:22 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 21:56:23 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 21:56:24 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 21:56:26 INFO  loginORsignupPage:360 - User already exists = true
+2025-07-08 21:56:26 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:56:26 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 21:56:26 INFO  loginORsignupPage:250 - select male title radio button
+2025-07-08 21:56:27 INFO  loginORsignupPage:266 - entering password
+2025-07-08 21:56:27 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 21:56:27 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 21:56:28 INFO  loginORsignupPage:297 - check newsletters check box
+2025-07-08 21:56:28 INFO  loginORsignupPage:302 - recove offers check box
+2025-07-08 21:56:34 INFO  loginORsignupPage:351 - clicked createAccount button
+2025-07-08 21:56:34 INFO  loginORsignupPage:322 - waiting for account created confirmation
+2025-07-08 21:56:34 INFO  loginORsignupPage:324 - Account created message is confirmed
+2025-07-08 21:56:35 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 21:56:59 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 21:56:59 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 21:57:01 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 21:57:01 INFO  loginORsignupPage:342 - waiting for account deleted message to display =ACCOUNT DELETED!
+2025-07-08 21:57:02 INFO  loginORsignupPage:222 - waiting for account deleted message
+2025-07-08 21:57:02 INFO  loginORsignupPage:224 - getting account deletion status =true
+2025-07-08 21:57:02 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:01:33 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:01:33 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:01:36 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:02:26 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:02:26 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:02:28 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 22:02:29 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 22:02:30 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 22:02:32 INFO  loginORsignupPage:360 - User already exists = true
+2025-07-08 22:02:32 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:02:32 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:02:32 INFO  loginORsignupPage:250 - select male title radio button
+2025-07-08 22:02:33 INFO  loginORsignupPage:266 - entering password
+2025-07-08 22:02:34 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 22:02:34 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 22:02:35 INFO  loginORsignupPage:297 - check newsletters check box
+2025-07-08 22:02:35 INFO  loginORsignupPage:302 - recove offers check box
+2025-07-08 22:02:43 INFO  loginORsignupPage:351 - clicked createAccount button
+2025-07-08 22:02:43 INFO  loginORsignupPage:322 - waiting for account created confirmation
+2025-07-08 22:02:43 INFO  loginORsignupPage:324 - Account created message is confirmed
+2025-07-08 22:02:43 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:02:52 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 22:02:52 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 22:02:55 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 22:02:55 INFO  loginORsignupPage:342 - waiting for account deleted message to display =ACCOUNT DELETED!
+2025-07-08 22:02:55 INFO  loginORsignupPage:222 - waiting for account deleted message
+2025-07-08 22:02:55 INFO  loginORsignupPage:224 - getting account deletion status =true
+2025-07-08 22:02:55 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:03:42 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:03:42 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:03:44 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:03:51 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:03:51 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:03:54 INFO  loginORsignupPage:112 - Verifyed all elements displayed or not
+2025-07-08 22:03:55 INFO  loginORsignupPage:117 - Filling signup fields: Name = dummyuserone, Email = dummyuserone@gmail.com
+2025-07-08 22:03:56 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 22:03:57 INFO  loginORsignupPage:360 - User already exists = true
+2025-07-08 22:03:57 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:03:58 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:03:58 INFO  loginORsignupPage:250 - select male title radio button
+2025-07-08 22:03:58 INFO  loginORsignupPage:266 - entering password
+2025-07-08 22:03:59 INFO  loginORsignupPage:272 - Parsing DOB: 18/6/1992
+2025-07-08 22:03:59 INFO  loginORsignupPage:277 - Selecting DOB Day=18, Month=6, Year=1992
+2025-07-08 22:04:00 INFO  loginORsignupPage:297 - check newsletters check box
+2025-07-08 22:04:00 INFO  loginORsignupPage:302 - recove offers check box
+2025-07-08 22:04:07 INFO  loginORsignupPage:351 - clicked createAccount button
+2025-07-08 22:04:07 INFO  loginORsignupPage:322 - waiting for account created confirmation
+2025-07-08 22:04:07 INFO  loginORsignupPage:324 - Account created message is confirmed
+2025-07-08 22:04:08 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:04:12 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 22:04:13 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 22:04:14 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 22:04:14 INFO  loginORsignupPage:342 - waiting for account deleted message to display =ACCOUNT DELETED!
+2025-07-08 22:04:14 INFO  loginORsignupPage:222 - waiting for account deleted message
+2025-07-08 22:04:14 INFO  loginORsignupPage:224 - getting account deletion status =true
+2025-07-08 22:04:15 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:04:21 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:04:21 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:04:23 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:04:33 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:04:33 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:04:35 INFO  loginORsignupPage:117 - Filling signup fields: Name = userthreeyesh, Email = userthreeyesh@gmail.com
+2025-07-08 22:04:36 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 22:04:38 INFO  loginORsignupPage:250 - select male title radio button
+2025-07-08 22:04:38 INFO  loginORsignupPage:266 - entering password
+2025-07-08 22:04:38 INFO  loginORsignupPage:272 - Parsing DOB: 03/12/1996
+2025-07-08 22:04:38 INFO  loginORsignupPage:277 - Selecting DOB Day=03, Month=12, Year=1996
+2025-07-08 22:04:39 INFO  loginORsignupPage:297 - check newsletters check box
+2025-07-08 22:04:39 INFO  loginORsignupPage:302 - recove offers check box
+2025-07-08 22:04:44 INFO  loginORsignupPage:351 - clicked createAccount button
+2025-07-08 22:04:44 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:04:50 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:04:50 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:04:51 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:04:57 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:04:57 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:05:11 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 22:05:12 INFO  loginORsignupPage:332 - Attempting to delete account...
+2025-07-08 22:05:13 INFO  loginORsignupPage:335 - Delete account button clicked.
+2025-07-08 22:05:13 INFO  loginORsignupPage:342 - waiting for account deleted message to display =ACCOUNT DELETED!
+2025-07-08 22:05:13 INFO  loginORsignupPage:231 - Clicking on continue button
+2025-07-08 22:05:28 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:05:28 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:05:29 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:05:43 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:05:43 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:05:47 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:05:47 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:05:48 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:05:55 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:05:55 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:06:03 INFO  loginORsignupPage:215 - getting loggedin user name
+2025-07-08 22:06:04 INFO  Valid_InvalidLogin:102 - ..............clicking logout tab.................
+2025-07-08 22:06:05 INFO  loginORsignupPage:197 - getting current url
+2025-07-08 22:06:06 INFO  WebDriverManager:1219 - Using msedgedriver 138.0.3351.65 (resolved driver for Edge 138)
+2025-07-08 22:06:06 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\138.0.3351.65\msedgedriver.exe
+2025-07-08 22:06:07 INFO  loginORsignupPage:82 - Navigating to test url http://automationexercise.com
+2025-07-08 22:06:12 INFO  loginORsignupPage:191 - getting title of the page
+2025-07-08 22:06:12 INFO  loginORsignupPage:89 - clicking signup/login Tab
+2025-07-08 22:06:14 INFO  loginORsignupPage:117 - Filling signup fields: Name = yash4, Email = yash4@gmail.com
+2025-07-08 22:06:15 INFO  loginORsignupPage:157 - clicking signup button
+2025-07-08 22:06:17 INFO  Valid_InvalidLogin:110 - ..............existing mail id error message for signup.................

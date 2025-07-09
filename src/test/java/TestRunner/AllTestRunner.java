@@ -20,4 +20,5 @@ import io.cucumber.junit.CucumberOptions;
 )
 public class AllTestRunner {
     // This class will run all feature files matching the criteria.
+	///contactUsForm.feature
 }

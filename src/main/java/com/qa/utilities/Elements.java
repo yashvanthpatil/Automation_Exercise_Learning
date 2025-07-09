@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.*;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.time.Duration;
 
 public class Elements {
@@ -179,10 +180,34 @@ public class Elements {
     }
 
     // =================== Screenshots ===================
-    public void docaptureScreenshot(String fileName) throws IOException {
-        File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        Files.copy(src.toPath(), new File("target/Screenshots" + fileName + ".png").toPath());
+    public void docaptureScreenshot(String filename) {
+        try {
+            File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+            String filePath = "target/screenShots/" + filename + ".png";
+
+            // Create directory if it doesn't exist
+            File directory = new File("target/screenShots");
+            if (!directory.exists()) {
+                directory.mkdirs();
+            }
+
+            File dest = new File(filePath);
+
+            // Copy screenshot file with overwrite option
+            Files.copy(src.toPath(), dest.toPath(), StandardCopyOption.REPLACE_EXISTING);
+            System.out.println("Screenshot saved at: " + filePath);
+
+        } catch (IOException e) {
+            System.err.println("Failed to save screenshot: " + e.getMessage());
+            e.printStackTrace();
+        } catch (Exception ex) {
+            System.err.println("Unexpected error while saving screenshot: " + ex.getMessage());
+            ex.printStackTrace();
+        }
     }
+
+    
+    
 
     // =================== Flexible By (Optional Helper) ===================
     public By dogetBy(String type, String value) {

@@ -15,3 +15,8 @@ Background:
     And Verify success message 'Success! Your details have been submitted successfully.' is visible
     Then Click Home button and verify that landed to home page successfully
 	
+	Scenario: verify the testcases page
+	Given user landed to homepage and click on testcases tab
+	And verify that user is landed to Testcases page or not
+	Then verify the page using title "Automation Practice Website for UI Testing - Test Cases"
+	

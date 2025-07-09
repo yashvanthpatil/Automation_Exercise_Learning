@@ -1,15 +1,18 @@
 package com.qa.pages;
 
+import java.io.IOException;
+import java.time.Duration;
+import java.util.Map;
+import java.util.Properties;
+import org.openqa.selenium.TimeoutException;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 
 import com.qa.utilities.Elements;
 import com.qa.utilities.ReadConfig;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import java.io.IOException;
-import java.util.Map;
-import java.util.Properties;
 
 public class loginORsignupPage {
 
@@ -71,6 +74,7 @@ public class loginORsignupPage {
 	public void getproperties() {
 		readconfig = new ReadConfig();
 		prop = readconfig.init_prop();
+		Testurl = prop.getProperty("TestUrl");
 	}
 
 	public String browserName() {
@@ -78,10 +82,18 @@ public class loginORsignupPage {
 	}
 
 	public void Enterurl() {
-		Testurl = prop.getProperty("TestUrl");
-		logger.info("Navigating to test url "+ Testurl);
-		driver.get(Testurl);
-		ele.waitForPageReady();
+	    try {
+	        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+	        driver.get(Testurl);
+	        logger.info("Navigating to test url " + Testurl);
+	    } catch (TimeoutException e) {
+	        logger.warn("Timeout while loading page, retrying...");
+	        try {
+	            driver.get(Testurl);
+	        } catch (Exception ex) {
+	            logger.error("Retry also failed: " + ex.getMessage());
+	        }
+	    }
 	}
 
 	public void clicksignuporloginTab() {

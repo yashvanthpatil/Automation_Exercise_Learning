@@ -62,7 +62,21 @@ public class ContactUsFormSteps {
 	public void click_home_button_and_verify_that_landed_to_home_page_successfully() throws Exception {
 	   contactus.cickHomeButton();
 	   ss.Takescreenshot("home_page_ss");
-	   
+	}
+	
+	@Given ("user landed to homepage and click on testcases tab")
+	public void user_landed_to_homepage_and_click_on_testcases_tab() {
+		contactus.clickOnTestCaseTab();
+	}
+	@And ("verify that user is landed to Testcases page or not")
+	public void verify_that_user_is_landed_to_Testcases_page_or_not() {
+		contactus.testcaseHeaderDisplayed_or_Not();
+		contactus.getTestCaseHeaderText();
+	}
+	@Then ("verify the page using title {string}")
+	public void verify_the_page_using_title(String ExpTitle) {
+		String ActualTitle = contactus.getTitleOfPage();
+		Assert.assertEquals(ActualTitle, ExpTitle);
 	}
 
 }

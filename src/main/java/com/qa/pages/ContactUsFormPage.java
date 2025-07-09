@@ -22,6 +22,10 @@ public class ContactUsFormPage {
 	private By submitButton = By.xpath("//input[@type=\"submit\"]");
 	private By successMessageAfterSubmiting = By.xpath("//div[@class=\"status alert alert-success\"]");
 	private By HomeButton = By.xpath("//a[@class=\"btn btn-success\"]");
+	
+	private By testcaseTab = By.xpath("//a[@href=\"/test_cases\"]");
+	private By testCasesHeader = By.xpath("//h2/b");
+//	private String testCasesPageTitleExpected  =  "Automation Practice Website for UI Testing - Test Cases";
 			
 
 	private WebDriver driver;
@@ -121,9 +125,35 @@ public class ContactUsFormPage {
 	}
 	
 	public void cickHomeButton() {
-		ele.waitForPageReady();
 		ele.safeClick(HomeButton, 3);
 		logger.info("click on home button");
 		ele.waitForPageReady();
+	}
+	
+	public void clickOnTestCaseTab() {
+		ele.waitForPageReady();
+		ele.safeClick(testcaseTab, 3);
+		logger.info("click on test case tab");
+		ele.waitForPageReady();
+	}
+	
+	public boolean testcaseHeaderDisplayed_or_Not() {
+		ele.waitForPageReady();
+		logger.info("checking testcases header is displayed or not");
+	boolean testCaseHeader = ele.getElement(testCasesHeader).isDisplayed();
+	logger.info("status of testcase header displayed or not ="+testCaseHeader);
+	return testCaseHeader;
+	}
+	
+	public String getTestCaseHeaderText() {
+	String text = ele.dogetText(testCasesHeader);
+	logger.info("getting text of testcase header ="+text);
+	return text;
+	
+	}
+	
+	public String getTitleOfPage() {
+		logger.info("getting the title of the page");
+		return ele.GetTitle();
 	}
 }
